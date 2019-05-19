@@ -6,9 +6,11 @@ change and leave a room and send complaints and maintenance requests.
 
 
 ## Related Projects 
-Student Housing Management System Backend API ( Using Laravel )
+Students Housing System Backend API ( Using Laravel )
 [Backend - repository](https://github.com/GhanimAlkilani/Students-Housing-System-Back-End)
 
+Students Housing System Admin Panel Website ( Using React )
+[Admin Panel - repository](https://github.com/GhanimAlkilani/Admin-Panel)
 
 ## Pictures
 
