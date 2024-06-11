@@ -1,8 +1,8 @@
 # Students-Housing-System
 
 ## Description
-Application mobile aimed to help students in all housing issues, Such as reserve,
-change and leave a room and send complaints and maintenance requests.
+A mobile application designed to assist students with various housing-related tasks, including room reservations, changes, checkouts, and the submission of maintenance requests and complaints.
+Built using React Native, Laravel, and MS SQL.
 
 
 ## Related Projects 
